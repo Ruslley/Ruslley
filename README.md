@@ -29,8 +29,8 @@ Sou graduado em Análise e desenvolvimento de sistemas ...
   - Digital Innovation dio.me [link](https://www.dio.me/)
 - :alien: Apaixonado por tecnologias...
 
-![Ruslley GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruslley&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruslley&count_private=true&show_icons=true&theme=cobalt)
+<!-- ![Ruslley GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruslley&show_icons=true&theme=radical) -->
+![Ruslley GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruslley&count_private=true&show_icons=true&theme=cobalt)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruslley&layout=compact)
 <!--  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruslley&langs_count=8)]
