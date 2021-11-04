@@ -38,6 +38,8 @@ Sou graduado em Análise e desenvolvimento de sistemas ...
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ruslley&show_owner=true&repo=Be-The-Hero)](https://github.com/Ruslley/be-the-hero)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ruslley&show_owner=true&repo=ig.news)](https://github.com/Ruslley/ig.news)
 
+[![Meu perfil rockeseat](https://img.shields.io/badge/-Rocketseat-blueviolet)](https://app.rocketseat.com.br/me/ruslley-sales-1585738536)
+[![Meu perfil Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0e76a8&logo=Linkedin&Color=white)](https://www.linkedin.com/in/ruslley-sales-a0a08811a/)
+![Github followers](https://img.shields.io/github/followers/Ruslley?style=flat&labelColor=0D0D0D&logo=Github&Color=white)
 
-[![Linkedin](https://img.shields.io/badge/ -LinkedIn-060606?style=flat&labelColor=0D0ODOD&logo=Linkedin&Color=white)](https://www.linkedin.com/in/ruslley-sales-a0a08811a/)
-
+  
