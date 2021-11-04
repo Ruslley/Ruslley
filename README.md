@@ -35,7 +35,7 @@ Sou graduado em Análise e desenvolvimento de sistemas ...
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruslley&layout=compact)](https://github.com/Ruslley/Ruslley/blob/main/README.md)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readm-stats)](https://github.com/Ruslley/be-the-hero)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Ruslley/be-the-hero)
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruslley&langs_count=8)] -->
