@@ -39,3 +39,5 @@ Sou graduado em Análise e desenvolvimento de sistemas ...
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ruslley&show_owner=true&repo=ig.news)](https://github.com/Ruslley/ig.news)
 
 
+[![Linkedin](https://img.shields.io/badge/ -LinkedIn-060606?style=flat&labelColor=0D0ODOD&logo=Linkedin&Color=white)](https://www.linkedin.com/in/ruslley-sales-a0a08811a/)
+
