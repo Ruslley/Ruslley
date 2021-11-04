@@ -33,6 +33,6 @@ Sou graduado em Análise e desenvolvimento de sistemas ...
 ![Ruslley GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruslley&count_private=true&show_icons=true&theme=cobalt)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruslley&layout=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruslley&layout=compact)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruslley&langs_count=8)] -->
