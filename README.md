@@ -47,6 +47,7 @@ Sou graduado em Análise e desenvolvimento de sistemas ...
 <!-- <a href="https://github.com/Ruslley/be-the-hero">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ruslley&repo=bet-the-hero" />
 </a> -->
-<a href="https://github.com/Ruslley/ig.news">
+<!-- <a href="https://github.com/Ruslley/ig.news">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ruslley&repo=ig.news" />
 </a>
+ -->
