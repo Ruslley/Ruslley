@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 Sou graduado em Analise e desenvolvimento de sistemas ...
+-:bookmark_tabs: Sou graduado em Analise e desenvolvimento de sistemas ...
 - :mortar_board: Estacio FIC
 - :computer: Estudante de desenvolvimento web
 - 🌱 Estudo as melhores **stack** **NodeJs**, **ReactJs** e **React Native**
