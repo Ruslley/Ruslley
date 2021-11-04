@@ -30,6 +30,17 @@ Sou graduado em Análise e desenvolvimento de sistemas ...
 - :alien: Apaixonado por tecnologias...
 
 <!-- ![Ruslley GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruslley&show_icons=true&theme=radical) -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
+
+
+
 [![Ruslley GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruslley&count_private=true&show_icons=true&theme=cobalt)](https://github.com/Ruslley/Ruslley/blob/main/README.md)
 
 
