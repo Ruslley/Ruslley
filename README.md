@@ -59,7 +59,7 @@ Sou graduado em Análise e desenvolvimento de sistemas ...
 <br>
 <div>
   <a href="https://github.com/Ruslley">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ruslley&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ruslley&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruslley&layout=compact&langs_count=7&theme=dark"/>
 </div>
 </div>
