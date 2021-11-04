@@ -31,12 +31,6 @@ Sou graduado em Análise e desenvolvimento de sistemas ...
 
 <!-- ![Ruslley GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruslley&show_icons=true&theme=radical) -->
 
-<a href="https://github.com/Ruslley/be-the-hero">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ruslley&repo=bet-the-hero" />
-</a>
-<a href="https://github.com/Ruslley/ig.news">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ruslley&repo=ig.news" />
-</a>
 
 
 
@@ -50,3 +44,9 @@ Sou graduado em Análise e desenvolvimento de sistemas ...
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ruslley&show_owner=true&repo=ig.news)](https://github.com/Ruslley/ig.news)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruslley&langs_count=8)] -->
+<!-- <a href="https://github.com/Ruslley/be-the-hero">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ruslley&repo=bet-the-hero" />
+</a> -->
+<a href="https://github.com/Ruslley/ig.news">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ruslley&repo=ig.news" />
+</a>
