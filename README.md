@@ -15,5 +15,6 @@ Here are some ideas to get you started:
   - Digital Innovation dio.me [link](https://www.dio.me/)
 - :alien: Apaixonado por tecnologias...
 
--->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruslley)](https://github.com/anuraghazra/github-readme-stats)
+
+-->
