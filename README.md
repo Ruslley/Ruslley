@@ -30,7 +30,7 @@ Sou graduado em Análise e desenvolvimento de sistemas ...
 - :alien: Apaixonado por tecnologias...
 
 <!-- ![Ruslley GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruslley&show_icons=true&theme=radical) -->
-[![Ruslley GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruslley&count_private=true&show_icons=true&theme=cobalt)](https://github.com/Ruslley/github-readme-stats)
+[![Ruslley GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruslley&count_private=true&show_icons=true&theme=cobalt)](https://github.com/Ruslley/Ruslley/blob/main/README.md)
 
 
 
