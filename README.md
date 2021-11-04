@@ -6,9 +6,9 @@
 Here are some ideas to get you started:
 
 Sou graduado em Análise e desenvolvimento de sistemas ...
-- :mortar_board: Estacio FIC
-- :computer: Estudante de desenvolvimento web
-- 🌱 Estudo as melhores **stack** **NodeJs**, **ReactJs** e **React Native**
+- :mortar_board: Estacio FIC.
+- :computer: Estudante de desenvolvimento web.
+- 🌱 Estudo as melhores **stack** **NodeJs**, **ReactJs** e **React Native**.
 - Participo de formação online:
   - Rocketseat [link](https://www.rocketseat.com.br)
   - Digital Innovation dio.me [link](https://www.dio.me/)
