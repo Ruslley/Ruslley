@@ -47,6 +47,7 @@ Sou graduado em Análise e desenvolvimento de sistemas ...
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org/en/" target="blank"><img src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" alt="Nodejs" width="40" height="40"/></a>
 </p>
 
 ##
@@ -62,7 +63,7 @@ Sou graduado em Análise e desenvolvimento de sistemas ...
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ruslley&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruslley&layout=compact&langs_count=7&theme=dark"/>
 </div>
-</div>
+<!-- </div> -->
 
 <br>
 
